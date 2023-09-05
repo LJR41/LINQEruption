@@ -1,0 +1,15 @@
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.AssemblyInfo.cs
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\bin\Debug\net7.0\LINQEruption.exe
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\bin\Debug\net7.0\LINQEruption.deps.json
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\bin\Debug\net7.0\LINQEruption.runtimeconfig.json
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\bin\Debug\net7.0\LINQEruption.dll
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\bin\Debug\net7.0\LINQEruption.pdb
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.dll
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\refint\LINQEruption.dll
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.pdb
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\LINQEruption.genruntimeconfig.cache
+C:\Users\Josh\Desktop\Coding Dojo\C#\LINQEruption\obj\Debug\net7.0\ref\LINQEruption.dll
